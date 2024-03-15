@@ -6,6 +6,7 @@ const Post1 = () => {
     return (
         <Card>
             <Card.Img
+                id="javascript"
                 variant="top"
                 src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20230305183140/Javascript.jpg"
                 width={20}

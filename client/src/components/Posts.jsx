@@ -19,16 +19,16 @@ const Posts = () => {
               <Card.Title>Recent Posts</Card.Title>
               <ul className="list-unstyled">
                 <li>
-                  <a href="#">Javascript</a>
+                  <a href="#javascript">Javascript</a>
                 </li>
                 <li>
-                  <a href="#">Data Structrure</a>
+                  <a href="#data">Data Structrure</a>
                 </li>
                 <li>
-                  <a href="#">Algorithm</a>
+                  <a href="#algo">Algorithm</a>
                 </li>
                 <li>
-                  <a href="#">Computer Network</a>
+                  <a href="#computer">Computer Network</a>
                 </li>
               </ul>
             </Card.Body>
